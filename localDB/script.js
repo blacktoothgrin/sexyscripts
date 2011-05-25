@@ -1,7 +1,7 @@
 var App = {};
 var Int = function(val){
     return parseInt(val, 10);
-}
+};
 /**
  * @desc localStorage abstraction. Designed to store and retrieve objects. localStorage by default can only store data as String
  */
